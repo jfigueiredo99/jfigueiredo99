@@ -10,7 +10,7 @@
  
 ## About Me
 
-- 👨‍💻 Rockstar Developer <a href="https://www.criticaltechworks.com"><b>@CriticalTechworks</b></a>
+- 👨‍💻 <a href="https://www.criticaltechworks.com">Rockstar Developer <b>@CriticalTechworks</b></a>
 - 💙 JavaScipt, Flutter, C#, React
 - 📖 Currently reading Clean Code
 
